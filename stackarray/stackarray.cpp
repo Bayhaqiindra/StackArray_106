@@ -26,3 +26,6 @@ public:
 		return element;
 	}
 
+	void pop() {
+		if (empty()) { //step 1
+	
