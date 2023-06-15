@@ -13,3 +13,5 @@ public:
 	}
 
 	string push(string element) {
+		if (top == 4) { //step 1
+			cout << "Number of data execeeds the limit. " << endl;
