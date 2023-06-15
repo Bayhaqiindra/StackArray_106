@@ -55,3 +55,4 @@ public:
 
 int main() {
 	StackArray s;
+	while (true) {
